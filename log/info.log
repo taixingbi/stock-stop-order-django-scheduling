@@ -1,0 +1,16 @@
+Watching for file changes with StatReloader
+"GET /version/ HTTP/1.1" 200 18
+"GET /version/ HTTP/1.1" 200 18
+/Users/h/Documents/work/stock-strategy/mysite/core/views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /version/ HTTP/1.1" 200 18
+"GET /version/ HTTP/1.1" 200 18
+/Users/h/Documents/work/stock-strategy/mysite/core/views.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/h/Documents/work/stock-strategy/mysite/settings.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET /version/ HTTP/1.1" 200 18
+"GET /version/ HTTP/1.1" 200 18
+"GET /version/ HTTP/1.1" 200 18
+/Users/h/Documents/work/stock-strategy/mysite/settings.py changed, reloading.
